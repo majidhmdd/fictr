@@ -1,0 +1,1 @@
+ALTER TABLE `team_registrations` ADD `willing_to_pay` integer DEFAULT false NOT NULL;
